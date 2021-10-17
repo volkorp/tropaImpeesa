@@ -1,0 +1,12 @@
+mat-grid-tile {
+    background: rgb(32, 137, 179);
+}
+
+.textPatrullas {
+  padding-left: 100px;
+}
+
+.example-header-image {
+  background-image: src="assets/img/pBuho.JPG";
+  background-size: cover;
+}
